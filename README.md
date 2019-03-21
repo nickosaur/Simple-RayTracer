@@ -1,2 +1,2 @@
 # RayTracer-Nickosaur
-Raytracer project written from scratch for CSE 184
+Raytracer project written from scratch for 167
